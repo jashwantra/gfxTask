@@ -2,7 +2,7 @@
 
 This is an desktop app developed using ElectronJS and ReactJS which shows the details of the products as the given table :-
 
-![project demo](https://raw.githubusercontent.com/jashwantra/gfxTask1/main/gfxTask.JPG)
+![project demo](https://raw.githubusercontent.com/jashwantra/gfxTask/main/gfxTask.JPG)
 
 ## Question
 Question:
