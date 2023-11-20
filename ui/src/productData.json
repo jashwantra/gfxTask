@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+      "product_id": 654321,
+      "title": "Product A",
+      "price": "37493.00",
+      "sku": "1237A 0111000"
+    },
+    {
+      "product_id": 836587,
+      "title": "Product B",
+      "price": "15340.00",
+      "sku": "1247A 01010100"
+    },
+    {
+      "product_id": 837483,
+      "title": "Product C",
+      "price": "38483.00",
+      "sku": "1437A 01011010"
+    },
+    {
+      "product_id": 836584,
+      "title": "Product D",
+      "price": "86384.00",
+      "sku": "1323A 01101010"
+    },
+    {
+        "product_id": 834384,
+        "title": "Product E",
+        "price": "823384.00",
+        "sku": "38393A 0111010101"
+      }
+    ]
+  }
